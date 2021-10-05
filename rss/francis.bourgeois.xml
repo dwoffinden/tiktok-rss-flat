@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@francis.bourgeois</id>
+  <title>francis.bourgeois TikTok</title>
+  <updated>2023-03-05T18:01:04+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://daw.dev/tiktok-rss-flat/rss/francis.bourgeois.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://daw.dev/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from francis.bourgeois</subtitle>
+  <entry>
+    <id>https://tiktok.com/@francis.bourgeois/video/7197097600665898245</id>
+    <title>Just after catching the A4 at London Victoria, here it is at Virginia Water! #trains #trending #fyp</title>
+    <updated>2023-02-06T17:34:31+00:00</updated>
+    <content>Just after catching the A4 at London Victoria, here it is at Virginia Water! #trains #trending #fyp</content>
+    <link href="https://tiktok.com/@francis.bourgeois/video/7197097600665898245" rel="alternate"/>
+    <published>2023-02-06T17:34:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@francis.bourgeois/video/7197843282020338949</id>
+    <title>Just came across an old friend of mine, happy memories with this loco! #trains #trending #fyp</title>
+    <updated>2023-02-08T17:48:08+00:00</updated>
+    <content>Just came across an old friend of mine, happy memories with this loco! #trains #trending #fyp</content>
+    <link href="https://tiktok.com/@francis.bourgeois/video/7197843282020338949" rel="alternate"/>
+    <published>2023-02-08T17:48:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@francis.bourgeois/video/7200066319465581829</id>
+    <title>A day in the life of a trainspotter! #trains #trending #fyp</title>
+    <updated>2023-02-14T17:34:39+00:00</updated>
+    <content>A day in the life of a trainspotter! #trains #trending #fyp</content>
+    <link href="https://tiktok.com/@francis.bourgeois/video/7200066319465581829" rel="alternate"/>
+    <published>2023-02-14T17:34:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@francis.bourgeois/video/7203783259828784390</id>
+    <title>A day in the life of a trainspotter! #trains #trending #fyp</title>
+    <updated>2023-02-24T17:58:16+00:00</updated>
+    <content>A day in the life of a trainspotter! #trains #trending #fyp</content>
+    <link href="https://tiktok.com/@francis.bourgeois/video/7203783259828784390" rel="alternate"/>
+    <published>2023-02-24T17:58:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@francis.bourgeois/video/7207123743913561350</id>
+    <title>Tears of happiness! #trains </title>
+    <updated>2023-03-05T18:01:04+00:00</updated>
+    <content>Tears of happiness! #trains </content>
+    <link href="https://tiktok.com/@francis.bourgeois/video/7207123743913561350" rel="alternate"/>
+    <published>2023-03-05T18:01:04+00:00</published>
+  </entry>
+</feed>

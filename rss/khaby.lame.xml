@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@khaby.lame</id>
+  <title>khaby.lame TikTok</title>
+  <updated>2023-03-04T14:05:50+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://daw.dev/tiktok-rss-flat/rss/khaby.lame.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://daw.dev/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from khaby.lame</subtitle>
+  <entry>
+    <id>https://tiktok.com/@khaby.lame/video/7199652758419524869</id>
+    <title>Treat others as you wish to be treated. ❤️🇹🇷 #helpturkey </title>
+    <updated>2023-02-13T14:49:51+00:00</updated>
+    <content>Treat others as you wish to be treated. ❤️🇹🇷 #helpturkey </content>
+    <link href="https://tiktok.com/@khaby.lame/video/7199652758419524869" rel="alternate"/>
+    <published>2023-02-13T14:49:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@khaby.lame/video/7200028758869331206</id>
+    <title>Lost in endless dunes, the wind howls fiercely. Yet we press on, for the greatest journeys require the strongest wills. Our new YouTube adventure awaits. Discover more in my Official Youtube Channel.  #learnfromkhaby  #KhabyVlog</title>
+    <updated>2023-02-14T15:08:54+00:00</updated>
+    <content>Lost in endless dunes, the wind howls fiercely. Yet we press on, for the greatest journeys require the strongest wills. Our new YouTube adventure awaits. Discover more in my Official Youtube Channel.  #learnfromkhaby  #KhabyVlog</content>
+    <link href="https://tiktok.com/@khaby.lame/video/7200028758869331206" rel="alternate"/>
+    <published>2023-02-14T15:08:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@khaby.lame/video/7200757890968341765</id>
+    <title>You can't cheat Prof. Khaby👨🏾‍🏫. #learnfromkhaby </title>
+    <updated>2023-02-16T14:18:19+00:00</updated>
+    <content>You can't cheat Prof. Khaby👨🏾‍🏫. #learnfromkhaby </content>
+    <link href="https://tiktok.com/@khaby.lame/video/7200757890968341765" rel="alternate"/>
+    <published>2023-02-16T14:18:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@khaby.lame/video/7205584273200483590</id>
+    <title>Bro, I go with your flow 👊🏿 #learnfromkhaby #comic </title>
+    <updated>2023-03-01T14:27:08+00:00</updated>
+    <content>Bro, I go with your flow 👊🏿 #learnfromkhaby #comic </content>
+    <link href="https://tiktok.com/@khaby.lame/video/7205584273200483590" rel="alternate"/>
+    <published>2023-03-01T14:27:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@khaby.lame/video/7206692036731342086</id>
+    <title>First day as a video reporter! 📹 #learnfromkhaby #comic </title>
+    <updated>2023-03-04T14:05:50+00:00</updated>
+    <content>First day as a video reporter! 📹 #learnfromkhaby #comic </content>
+    <link href="https://tiktok.com/@khaby.lame/video/7206692036731342086" rel="alternate"/>
+    <published>2023-03-04T14:05:50+00:00</published>
+  </entry>
+</feed>
