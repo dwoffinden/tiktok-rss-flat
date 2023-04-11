@@ -2,32 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@khaby.lame</id>
   <title>khaby.lame TikTok</title>
-  <updated>2023-04-07T13:42:34+00:00</updated>
-  <author>
-    <name>Conor ONeill</name>
-    <email>conor@conoroneill.com</email>
-  </author>
+  <updated>2023-04-15T13:48:53+00:00</updated>
   <link href="http://tiktok.com" rel="alternate"/>
   <link href="https://daw.dev/tiktok-rss-flat/rss/khaby.lame.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://daw.dev/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>All the latest TikToks from khaby.lame</subtitle>
-  <entry>
-    <id>https://tiktok.com/@khaby.lame/video/7215234621833825542</id>
-    <title>Bro, you could have spent that time sleeping. 🛌 #spleepingmask #learnfromkhaby</title>
-    <updated>2023-03-27T14:35:25+00:00</updated>
-    <content>Bro, you could have spent that time sleeping. 🛌 #spleepingmask #learnfromkhaby</content>
-    <link href="https://tiktok.com/@khaby.lame/video/7215234621833825542" rel="alternate"/>
-    <published>2023-03-27T14:35:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@khaby.lame/video/7216715800109960453</id>
-    <title>Someday when I have more time I will try , I promise#learnfromkhaby #comic </title>
-    <updated>2023-03-31T14:23:12+00:00</updated>
-    <content>Someday when I have more time I will try , I promise#learnfromkhaby #comic </content>
-    <link href="https://tiktok.com/@khaby.lame/video/7216715800109960453" rel="alternate"/>
-    <published>2023-03-31T14:23:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@khaby.lame/video/7217831447254682885</id>
     <title>Sometimes the easiest way is the fastest way 😉 #learnfromkhaby  #comic  </title>
@@ -51,5 +31,21 @@
     <content>When everything around you looks damn #gta  #dontlearnfromkhaby  #comic Would you like to watch a second part of Khaby in GTA mode ?</content>
     <link href="https://tiktok.com/@khaby.lame/video/7219302942929718533" rel="alternate"/>
     <published>2023-04-07T13:42:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@khaby.lame/video/7221528655011302661</id>
+    <title>I asked my friend to take the picture from a little higher up 👩🏿‍🚀🚀 #learnfromkhaby #comic </title>
+    <updated>2023-04-13T13:39:29+00:00</updated>
+    <content>I asked my friend to take the picture from a little higher up 👩🏿‍🚀🚀 #learnfromkhaby #comic </content>
+    <link href="https://tiktok.com/@khaby.lame/video/7221528655011302661" rel="alternate"/>
+    <published>2023-04-13T13:39:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@khaby.lame/video/7222273249437093126</id>
+    <title>Car VS Khaby ZERO - ONE!!! 🏎️💪🏿 #learnfromkhaby #comic </title>
+    <updated>2023-04-15T13:48:53+00:00</updated>
+    <content>Car VS Khaby ZERO - ONE!!! 🏎️💪🏿 #learnfromkhaby #comic </content>
+    <link href="https://tiktok.com/@khaby.lame/video/7222273249437093126" rel="alternate"/>
+    <published>2023-04-15T13:48:53+00:00</published>
   </entry>
 </feed>

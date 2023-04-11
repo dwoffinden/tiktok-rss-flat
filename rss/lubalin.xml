@@ -3,10 +3,6 @@
   <id>https://tiktok.com/@lubalin</id>
   <title>lubalin TikTok</title>
   <updated>2022-11-10T17:11:44+00:00</updated>
-  <author>
-    <name>Conor ONeill</name>
-    <email>conor@conoroneill.com</email>
-  </author>
   <link href="http://tiktok.com" rel="alternate"/>
   <link href="https://daw.dev/tiktok-rss-flat/rss/lubalin.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>

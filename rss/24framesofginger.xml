@@ -3,10 +3,6 @@
   <id>https://tiktok.com/@24framesofginger</id>
   <title>24framesofginger TikTok</title>
   <updated>2023-04-05T19:33:19+00:00</updated>
-  <author>
-    <name>Conor ONeill</name>
-    <email>conor@conoroneill.com</email>
-  </author>
   <link href="http://tiktok.com" rel="alternate"/>
   <link href="https://daw.dev/tiktok-rss-flat/rss/24framesofginger.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
