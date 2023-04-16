@@ -2,20 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@planetmoney</id>
   <title>planetmoney TikTok</title>
-  <updated>2023-03-17T19:46:52+00:00</updated>
+  <updated>2023-04-21T17:01:44+00:00</updated>
   <link href="http://tiktok.com" rel="alternate"/>
   <link href="https://daw.dev/tiktok-rss-flat/rss/planetmoney.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://daw.dev/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>All the latest TikToks from planetmoney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@planetmoney/video/7172711376144567595</id>
-    <title>What do all these “For Lease” signs mean? #housing #creditcard #beethoven #economics #learnontiktok </title>
-    <updated>2022-12-03T00:23:33+00:00</updated>
-    <content>What do all these “For Lease” signs mean? #housing #creditcard #beethoven #economics #learnontiktok </content>
-    <link href="https://tiktok.com/@planetmoney/video/7172711376144567595" rel="alternate"/>
-    <published>2022-12-03T00:23:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@planetmoney/video/7174156280846929198</id>
     <title>See how quickly Inflation can ruin the mood. w/ @begray26  #Inflation #economics #datenight </title>
@@ -47,5 +39,13 @@
     <content>Here's how Silicon Valley Bank collapsed. #svb #banking #economics #siliconvalleybank #learnontiktok </content>
     <link href="https://tiktok.com/@planetmoney/video/7211604015321320746" rel="alternate"/>
     <published>2023-03-17T19:46:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@planetmoney/video/7224549391674117418</id>
+    <title>What’s all this talk about a 4-day work week?? #Labor #Economics #Work #Usher #learnontiktok </title>
+    <updated>2023-04-21T17:01:44+00:00</updated>
+    <content>What’s all this talk about a 4-day work week?? #Labor #Economics #Work #Usher #learnontiktok </content>
+    <link href="https://tiktok.com/@planetmoney/video/7224549391674117418" rel="alternate"/>
+    <published>2023-04-21T17:01:44+00:00</published>
   </entry>
 </feed>

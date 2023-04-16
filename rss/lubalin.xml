@@ -2,28 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lubalin</id>
   <title>lubalin TikTok</title>
-  <updated>2022-11-10T17:11:44+00:00</updated>
+  <updated>2023-04-20T01:43:09+00:00</updated>
   <link href="http://tiktok.com" rel="alternate"/>
   <link href="https://daw.dev/tiktok-rss-flat/rss/lubalin.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://daw.dev/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>All the latest TikToks from lubalin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lubalin/video/7109512817656483077</id>
-    <title>still doesn't feel real</title>
-    <updated>2022-06-15T17:00:48+00:00</updated>
-    <content>still doesn't feel real</content>
-    <link href="https://tiktok.com/@lubalin/video/7109512817656483077" rel="alternate"/>
-    <published>2022-06-15T17:00:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@lubalin/video/7112475715609660678</id>
-    <title>my partner @hotgluegone spent over a year drawing this video 🎨 #rotoscopeanimation #musician</title>
-    <updated>2022-06-23T16:38:23+00:00</updated>
-    <content>my partner @hotgluegone spent over a year drawing this video 🎨 #rotoscopeanimation #musician</content>
-    <link href="https://tiktok.com/@lubalin/video/7112475715609660678" rel="alternate"/>
-    <published>2022-06-23T16:38:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lubalin/video/7112477937856810246</id>
     <title>Reply to @hotgluegone welcome to part 2 of 1122 drawings #rotoscopeanimation  #musician</title>
@@ -47,5 +31,21 @@
     <content>maybe he likes the taste? 🤧 #kidsbelike #sodramatic #humor #musician </content>
     <link href="https://tiktok.com/@lubalin/video/7164436230191451397" rel="alternate"/>
     <published>2022-11-10T17:11:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lubalin/video/7223597219197275397</id>
+    <title>@Third Eye Blind 👁️ #producer #liminal #twitchclips #musician </title>
+    <updated>2023-04-19T03:26:35+00:00</updated>
+    <content>@Third Eye Blind 👁️ #producer #liminal #twitchclips #musician </content>
+    <link href="https://tiktok.com/@lubalin/video/7223597219197275397" rel="alternate"/>
+    <published>2023-04-19T03:26:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lubalin/video/7223941647506214150</id>
+    <title>Replying to @kniselydone may it serve you well #corecore #liminal #dreamcore  #usethissound #producer </title>
+    <updated>2023-04-20T01:43:09+00:00</updated>
+    <content>Replying to @kniselydone may it serve you well #corecore #liminal #dreamcore  #usethissound #producer </content>
+    <link href="https://tiktok.com/@lubalin/video/7223941647506214150" rel="alternate"/>
+    <published>2023-04-20T01:43:09+00:00</published>
   </entry>
 </feed>

@@ -2,28 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@sylvaniandrama</id>
   <title>sylvaniandrama TikTok</title>
-  <updated>2023-04-15T15:48:19+00:00</updated>
+  <updated>2023-04-23T15:48:25+00:00</updated>
   <link href="http://tiktok.com" rel="alternate"/>
   <link href="https://daw.dev/tiktok-rss-flat/rss/sylvaniandrama.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://daw.dev/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>All the latest TikToks from sylvaniandrama</subtitle>
-  <entry>
-    <id>https://tiktok.com/@sylvaniandrama/video/7200405214690577669</id>
-    <title>#drama only #Iconoftheseas can solve. @Royal Caribbean </title>
-    <updated>2023-02-15T15:29:46+00:00</updated>
-    <content>#drama only #Iconoftheseas can solve. @Royal Caribbean </content>
-    <link href="https://tiktok.com/@sylvaniandrama/video/7200405214690577669" rel="alternate"/>
-    <published>2023-02-15T15:29:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@sylvaniandrama/video/7201549058333248773</id>
-    <title>No Title</title>
-    <updated>2023-02-18T17:28:25+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@sylvaniandrama/video/7201549058333248773" rel="alternate"/>
-    <published>2023-02-18T17:28:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@sylvaniandrama/video/7213040818255351045</id>
     <title>No Title</title>
@@ -47,5 +31,21 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@sylvaniandrama/video/7222304003835596058" rel="alternate"/>
     <published>2023-04-15T15:48:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sylvaniandrama/video/7223420736931630363</id>
+    <title>1970's rock drama @daisyjonesandthesix @primevideo #atlanticrecordscreator  </title>
+    <updated>2023-04-18T16:01:49+00:00</updated>
+    <content>1970's rock drama @daisyjonesandthesix @primevideo #atlanticrecordscreator  </content>
+    <link href="https://tiktok.com/@sylvaniandrama/video/7223420736931630363" rel="alternate"/>
+    <published>2023-04-18T16:01:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sylvaniandrama/video/7225272725806320923</id>
+    <title>No Title</title>
+    <updated>2023-04-23T15:48:25+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@sylvaniandrama/video/7225272725806320923" rel="alternate"/>
+    <published>2023-04-23T15:48:25+00:00</published>
   </entry>
 </feed>
