@@ -2,20 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@24framesofginger</id>
   <title>24framesofginger TikTok</title>
-  <updated>2023-04-26T17:22:52+00:00</updated>
+  <updated>2023-05-05T16:50:36+00:00</updated>
   <link href="http://tiktok.com" rel="alternate"/>
   <link href="https://daw.dev/tiktok-rss-flat/rss/24framesofginger.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://daw.dev/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>All the latest TikToks from 24framesofginger</subtitle>
-  <entry>
-    <id>https://tiktok.com/@24framesofginger/video/7200077843500453166</id>
-    <title>Couldn’t have thrown these videos together without you ❤️ </title>
-    <updated>2023-02-14T18:19:44+00:00</updated>
-    <content>Couldn’t have thrown these videos together without you ❤️ </content>
-    <link href="https://tiktok.com/@24framesofginger/video/7200077843500453166" rel="alternate"/>
-    <published>2023-02-14T18:19:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@24framesofginger/video/7210825602230734122</id>
     <title>Good stuff stays in, bad stuff stays out @onemightymill </title>
@@ -47,5 +39,13 @@
     <content>@metaquest 2 headset transports me to new worlds 🎳🎱🎦 Get yours now at the link in my bio. Meta Quest is for ages 13+ #QuestPartner </content>
     <link href="https://tiktok.com/@24framesofginger/video/7226410295294479658" rel="alternate"/>
     <published>2023-04-26T17:22:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@24framesofginger/video/7229741744307440942</id>
+    <title>#V8partner My wife’s morning routine for that energy she needs @V8 Juice #stopmotion</title>
+    <updated>2023-05-05T16:50:36+00:00</updated>
+    <content>#V8partner My wife’s morning routine for that energy she needs @V8 Juice #stopmotion</content>
+    <link href="https://tiktok.com/@24framesofginger/video/7229741744307440942" rel="alternate"/>
+    <published>2023-05-05T16:50:36+00:00</published>
   </entry>
 </feed>

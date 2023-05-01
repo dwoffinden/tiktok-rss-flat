@@ -2,44 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@planetmoney</id>
   <title>planetmoney TikTok</title>
-  <updated>2023-04-21T17:01:44+00:00</updated>
+  <updated>2023-07-27T19:18:46+00:00</updated>
   <link href="http://tiktok.com" rel="alternate"/>
   <link href="https://daw.dev/tiktok-rss-flat/rss/planetmoney.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://daw.dev/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>All the latest TikToks from planetmoney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@planetmoney/video/7174156280846929198</id>
-    <title>See how quickly Inflation can ruin the mood. w/ @begray26  #Inflation #economics #datenight </title>
-    <updated>2022-12-06T21:50:39+00:00</updated>
-    <content>See how quickly Inflation can ruin the mood. w/ @begray26  #Inflation #economics #datenight </content>
-    <link href="https://tiktok.com/@planetmoney/video/7174156280846929198" rel="alternate"/>
-    <published>2022-12-06T21:50:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@planetmoney/video/7179351789916179758</id>
-    <title>Where do your taxes go? #taxes #tax  #income #economics #learnontiktok </title>
-    <updated>2022-12-20T21:51:48+00:00</updated>
-    <content>Where do your taxes go? #taxes #tax  #income #economics #learnontiktok </content>
-    <link href="https://tiktok.com/@planetmoney/video/7179351789916179758" rel="alternate"/>
-    <published>2022-12-20T21:51:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@planetmoney/video/7198234856831356206</id>
-    <title>Happy Tax Season! #IRS #taxes #inequality #economics #learnontiktok </title>
-    <updated>2023-02-09T19:08:06+00:00</updated>
-    <content>Happy Tax Season! #IRS #taxes #inequality #economics #learnontiktok </content>
-    <link href="https://tiktok.com/@planetmoney/video/7198234856831356206" rel="alternate"/>
-    <published>2023-02-09T19:08:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@planetmoney/video/7211604015321320746</id>
-    <title>Here's how Silicon Valley Bank collapsed. #svb #banking #economics #siliconvalleybank #learnontiktok </title>
-    <updated>2023-03-17T19:46:52+00:00</updated>
-    <content>Here's how Silicon Valley Bank collapsed. #svb #banking #economics #siliconvalleybank #learnontiktok </content>
-    <link href="https://tiktok.com/@planetmoney/video/7211604015321320746" rel="alternate"/>
-    <published>2023-03-17T19:46:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@planetmoney/video/7224549391674117418</id>
     <title>What’s all this talk about a 4-day work week?? #Labor #Economics #Work #Usher #learnontiktok </title>
@@ -47,5 +15,37 @@
     <content>What’s all this talk about a 4-day work week?? #Labor #Economics #Work #Usher #learnontiktok </content>
     <link href="https://tiktok.com/@planetmoney/video/7224549391674117418" rel="alternate"/>
     <published>2023-04-21T17:01:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@planetmoney/video/7241298190237142318</id>
+    <title>But it goes to a good cause, right? #planetmoney #economics #learnontiktok </title>
+    <updated>2023-06-05T20:15:37+00:00</updated>
+    <content>But it goes to a good cause, right? #planetmoney #economics #learnontiktok </content>
+    <link href="https://tiktok.com/@planetmoney/video/7241298190237142318" rel="alternate"/>
+    <published>2023-06-05T20:15:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@planetmoney/video/7247561278800252206</id>
+    <title>Lots of labor gave the world cheap goods #labor #economics #learnontiktok </title>
+    <updated>2023-06-22T17:19:32+00:00</updated>
+    <content>Lots of labor gave the world cheap goods #labor #economics #learnontiktok </content>
+    <link href="https://tiktok.com/@planetmoney/video/7247561278800252206" rel="alternate"/>
+    <published>2023-06-22T17:19:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@planetmoney/video/7259432803513666859</id>
+    <title>Anywhere can be a prison #prisonersdilemma #economics #lemonade #learnontiktok </title>
+    <updated>2023-07-24T17:07:05+00:00</updated>
+    <content>Anywhere can be a prison #prisonersdilemma #economics #lemonade #learnontiktok </content>
+    <link href="https://tiktok.com/@planetmoney/video/7259432803513666859" rel="alternate"/>
+    <published>2023-07-24T17:07:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@planetmoney/video/7260579983930805546</id>
+    <title>What goes into a credit score?  #creditscore #creditcard #economics #learnontiktok </title>
+    <updated>2023-07-27T19:18:46+00:00</updated>
+    <content>What goes into a credit score?  #creditscore #creditcard #economics #learnontiktok </content>
+    <link href="https://tiktok.com/@planetmoney/video/7260579983930805546" rel="alternate"/>
+    <published>2023-07-27T19:18:46+00:00</published>
   </entry>
 </feed>
