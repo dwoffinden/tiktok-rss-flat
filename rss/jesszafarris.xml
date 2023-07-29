@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@jesszafarris</id>
+  <title>jesszafarris TikTok</title>
+  <updated>2023-07-29T18:58:28+00:00</updated>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://daw.dev/tiktok-rss-flat/rss/jesszafarris.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://daw.dev/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>All the latest TikToks from jesszafarris</subtitle>
+  <entry>
+    <id>https://tiktok.com/@jesszafarris/video/7239821742770867499</id>
+    <title>The secret of the plural apostrophe. #etymology #grammar #punctuation #etymologytok #grammarlesson #englishlanguage #englishlesson #history #literature #booktok #writer #writertok #writing </title>
+    <updated>2023-06-01T20:46:06+00:00</updated>
+    <content>The secret of the plural apostrophe. #etymology #grammar #punctuation #etymologytok #grammarlesson #englishlanguage #englishlesson #history #literature #booktok #writer #writertok #writing </content>
+    <link href="https://tiktok.com/@jesszafarris/video/7239821742770867499" rel="alternate"/>
+    <published>2023-06-01T20:46:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jesszafarris/video/7242432704048794926</id>
+    <title>The horrifying magic of word aversions! #etymology #words #etymologytok #history #language #linguistics #linguisticstok #science </title>
+    <updated>2023-06-08T21:37:55+00:00</updated>
+    <content>The horrifying magic of word aversions! #etymology #words #etymologytok #history #language #linguistics #linguisticstok #science </content>
+    <link href="https://tiktok.com/@jesszafarris/video/7242432704048794926" rel="alternate"/>
+    <published>2023-06-08T21:37:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jesszafarris/video/7250125286853840171</id>
+    <title>Book cover reveal and a game! Words from Hell is coming soon from Chambers. #wordsfromhell #books #booktok #authorsoftiktok #authortok #etymology #wordorigins #coverreveal #nonfiction #nonfictionbooks @Hachette Book Group </title>
+    <updated>2023-06-29T15:09:08+00:00</updated>
+    <content>Book cover reveal and a game! Words from Hell is coming soon from Chambers. #wordsfromhell #books #booktok #authorsoftiktok #authortok #etymology #wordorigins #coverreveal #nonfiction #nonfictionbooks @Hachette Book Group </content>
+    <link href="https://tiktok.com/@jesszafarris/video/7250125286853840171" rel="alternate"/>
+    <published>2023-06-29T15:09:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jesszafarris/video/7256441954471349547</id>
+    <title>The naughty secrets of pollution! #etymology #wordorigins #wordfromhell #booktok #authortok #history #environment #conservation #etymologytok </title>
+    <updated>2023-07-16T15:41:12+00:00</updated>
+    <content>The naughty secrets of pollution! #etymology #wordorigins #wordfromhell #booktok #authortok #history #environment #conservation #etymologytok </content>
+    <link href="https://tiktok.com/@jesszafarris/video/7256441954471349547" rel="alternate"/>
+    <published>2023-07-16T15:41:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jesszafarris/video/7261316925760769322</id>
+    <title>The etymology of a word found in my upcoming book, Words from Hell. #etymology #etymologytok #history #wordorigins #health #women #insults #wordsfromhell</title>
+    <updated>2023-07-29T18:58:28+00:00</updated>
+    <content>The etymology of a word found in my upcoming book, Words from Hell. #etymology #etymologytok #history #wordorigins #health #women #insults #wordsfromhell</content>
+    <link href="https://tiktok.com/@jesszafarris/video/7261316925760769322" rel="alternate"/>
+    <published>2023-07-29T18:58:28+00:00</published>
+  </entry>
+</feed>

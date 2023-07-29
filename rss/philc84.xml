@@ -2,20 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philc84</id>
   <title>philc84 TikTok</title>
-  <updated>2023-07-26T17:38:07+00:00</updated>
+  <updated>2023-07-30T15:57:31+00:00</updated>
   <link href="http://tiktok.com" rel="alternate"/>
   <link href="https://daw.dev/tiktok-rss-flat/rss/philc84.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://daw.dev/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>All the latest TikToks from philc84</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philc84/video/7254991361579961626</id>
-    <title>Let’s go to the Source of The Thames. (It seemed like a good idea) #riverthames #london #nature #river  #londonlife #londontiktok #britishhumour #ukcomedy #satire #learnontiktok </title>
-    <updated>2023-07-12T17:51:56+00:00</updated>
-    <content>Let’s go to the Source of The Thames. (It seemed like a good idea) #riverthames #london #nature #river  #londonlife #londontiktok #britishhumour #ukcomedy #satire #learnontiktok </content>
-    <link href="https://tiktok.com/@philc84/video/7254991361579961626" rel="alternate"/>
-    <published>2023-07-12T17:51:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philc84/video/7256465914294553883</id>
     <title>We’re in Wales! Im sure the comments will see the funny side and not be angry at all. #bangor #northwales #wales #cymru #placestovisit #ukcomedy #britishhumour #satire #learnontiktok </title>
@@ -47,5 +39,13 @@
     <content>Going up a power station chimney…Was I ripped off? #batterseapowerstation #londonlife #london #placestovisit #britishhumour #ukcomedy #learnontiktok #lift109 </content>
     <link href="https://tiktok.com/@philc84/video/7260183001303223579" rel="alternate"/>
     <published>2023-07-26T17:38:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philc84/video/7261641409784991002</id>
+    <title>The most financially screwed town in the country, and it’s in Surrey😢 #woking #surrey #placestovisit #britishhumour #ukcomedy #satire #learnontiktok </title>
+    <updated>2023-07-30T15:57:31+00:00</updated>
+    <content>The most financially screwed town in the country, and it’s in Surrey😢 #woking #surrey #placestovisit #britishhumour #ukcomedy #satire #learnontiktok </content>
+    <link href="https://tiktok.com/@philc84/video/7261641409784991002" rel="alternate"/>
+    <published>2023-07-30T15:57:31+00:00</published>
   </entry>
 </feed>
