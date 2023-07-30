@@ -2,20 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@francis.bourgeois</id>
   <title>francis.bourgeois TikTok</title>
-  <updated>2023-07-14T16:37:21+00:00</updated>
+  <updated>2023-07-30T19:53:43+00:00</updated>
   <link href="http://tiktok.com" rel="alternate"/>
   <link href="https://daw.dev/tiktok-rss-flat/rss/francis.bourgeois.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://daw.dev/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>All the latest TikToks from francis.bourgeois</subtitle>
-  <entry>
-    <id>https://tiktok.com/@francis.bourgeois/video/7238271302295964955</id>
-    <title>Thank you, William, for the fantastic tones through Beeston Station in 56051 #trains</title>
-    <updated>2023-05-28T16:29:35+00:00</updated>
-    <content>Thank you, William, for the fantastic tones through Beeston Station in 56051 #trains</content>
-    <link href="https://tiktok.com/@francis.bourgeois/video/7238271302295964955" rel="alternate"/>
-    <published>2023-05-28T16:29:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@francis.bourgeois/video/7240871781202922779</id>
     <title>Balcombe Station has to be one of the more peaceful stations in the Southern Region, unless there is a class 37 coming through! #trains </title>
@@ -47,5 +39,13 @@
     <content>It felt amazing to be able to share my passion with my friends for my birthday, which was on the 9th July #trains</content>
     <link href="https://tiktok.com/@francis.bourgeois/video/7255714303855185179" rel="alternate"/>
     <published>2023-07-14T16:37:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@francis.bourgeois/video/7261702283765878042</id>
+    <title>One of my favourite sounds on the railway: the scream from the Napier turbos on the class 56’s Ruston Paxman engine! #trains</title>
+    <updated>2023-07-30T19:53:43+00:00</updated>
+    <content>One of my favourite sounds on the railway: the scream from the Napier turbos on the class 56’s Ruston Paxman engine! #trains</content>
+    <link href="https://tiktok.com/@francis.bourgeois/video/7261702283765878042" rel="alternate"/>
+    <published>2023-07-30T19:53:43+00:00</published>
   </entry>
 </feed>

@@ -2,20 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@piper.ally</id>
   <title>piper.ally TikTok</title>
-  <updated>2023-07-29T18:36:09+00:00</updated>
+  <updated>2023-07-30T20:22:37+00:00</updated>
   <link href="http://tiktok.com" rel="alternate"/>
   <link href="https://daw.dev/tiktok-rss-flat/rss/piper.ally.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://daw.dev/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>All the latest TikToks from piper.ally</subtitle>
-  <entry>
-    <id>https://tiktok.com/@piper.ally/video/7257625872591605038</id>
-    <title>@metallica love youuuuuu #bagpipes #bagpiper #fadetoblack #metallica </title>
-    <updated>2023-07-19T20:15:15+00:00</updated>
-    <content>@metallica love youuuuuu #bagpipes #bagpiper #fadetoblack #metallica </content>
-    <link href="https://tiktok.com/@piper.ally/video/7257625872591605038" rel="alternate"/>
-    <published>2023-07-19T20:15:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@piper.ally/video/7258689180153187626</id>
     <title>Have you presaved our Fairy Tail cover yet?? Out on Friday the 28th! #fairytail #bagpipes #violin #electricviolin #bagpiper #miaxally #erzascarlet #cosplay </title>
@@ -47,5 +39,13 @@
     <content>And if you use this sound I’ll personally love you forever 👆🏼 | @Mia Asano #miaxally #fairytail #fairytailguild #erzascarlet #erza #bagpiper #bagpipes #erzacosplay </content>
     <link href="https://tiktok.com/@piper.ally/video/7261311143078284590" rel="alternate"/>
     <published>2023-07-29T18:36:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@piper.ally/video/7261709707386080555</id>
+    <title>🥹💕 it warms my whole heart #fairytail #fairytailanime #bagpipes #bagpiper #minerva #erza </title>
+    <updated>2023-07-30T20:22:37+00:00</updated>
+    <content>🥹💕 it warms my whole heart #fairytail #fairytailanime #bagpipes #bagpiper #minerva #erza </content>
+    <link href="https://tiktok.com/@piper.ally/video/7261709707386080555" rel="alternate"/>
+    <published>2023-07-30T20:22:37+00:00</published>
   </entry>
 </feed>
