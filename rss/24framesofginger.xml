@@ -2,35 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@24framesofginger</id>
   <title>24framesofginger TikTok</title>
-  <updated>2023-05-05T16:50:36+00:00</updated>
+  <updated>2023-08-23T16:41:59+00:00</updated>
   <link href="http://tiktok.com" rel="alternate"/>
   <link href="https://daw.dev/tiktok-rss-flat/rss/24framesofginger.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://daw.dev/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>All the latest TikToks from 24framesofginger</subtitle>
   <entry>
-    <id>https://tiktok.com/@24framesofginger/video/7200077843500453166</id>
-    <title>Couldn’t have thrown these videos together without you ❤️ </title>
-    <updated>2023-02-14T18:19:44+00:00</updated>
-    <content>Couldn’t have thrown these videos together without you ❤️ </content>
-    <link href="https://tiktok.com/@24framesofginger/video/7200077843500453166" rel="alternate"/>
-    <published>2023-02-14T18:19:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@24framesofginger/video/7210825602230734122</id>
-    <title>Good stuff stays in, bad stuff stays out @onemightymill </title>
-    <updated>2023-03-15T17:26:16+00:00</updated>
-    <content>Good stuff stays in, bad stuff stays out @onemightymill </content>
-    <link href="https://tiktok.com/@24framesofginger/video/7210825602230734122" rel="alternate"/>
-    <published>2023-03-15T17:26:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@24framesofginger/video/7214929871187889451</id>
-    <title>Messy room? Buy a broom #springcleaning #stopmotion #amazon #loop </title>
-    <updated>2023-03-26T18:53:01+00:00</updated>
-    <content>Messy room? Buy a broom #springcleaning #stopmotion #amazon #loop </content>
-    <link href="https://tiktok.com/@24framesofginger/video/7214929871187889451" rel="alternate"/>
-    <published>2023-03-26T18:53:01+00:00</published>
+    <id>https://tiktok.com/@24framesofginger/video/7218651095269362990</id>
+    <title>Don’t cry over spilled ink ✍️ collab with @Cody Tarantino #art </title>
+    <updated>2023-04-05T19:33:19+00:00</updated>
+    <content>Don’t cry over spilled ink ✍️ collab with @Cody Tarantino #art </content>
+    <link href="https://tiktok.com/@24framesofginger/video/7218651095269362990" rel="alternate"/>
+    <published>2023-04-05T19:33:19+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@24framesofginger/video/7226410295294479658</id>
@@ -47,5 +31,21 @@
     <content>#V8partner My wife’s morning routine for that energy she needs @V8 Juice #stopmotion</content>
     <link href="https://tiktok.com/@24framesofginger/video/7229741744307440942" rel="alternate"/>
     <published>2023-05-05T16:50:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@24framesofginger/video/7268768003318140202</id>
+    <title>#ad One Key makes traveling easy with rewards across @expedia @Hotels.com @Vrbo </title>
+    <updated>2023-08-18T20:52:22+00:00</updated>
+    <content>#ad One Key makes traveling easy with rewards across @expedia @Hotels.com @Vrbo </content>
+    <link href="https://tiktok.com/@24framesofginger/video/7268768003318140202" rel="alternate"/>
+    <published>2023-08-18T20:52:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@24framesofginger/video/7270558855686294826</id>
+    <title>#ad Earn and use rewards with One Key for the trip of a lifetime @expedia @Hotels.com @Vrbo </title>
+    <updated>2023-08-23T16:41:59+00:00</updated>
+    <content>#ad Earn and use rewards with One Key for the trip of a lifetime @expedia @Hotels.com @Vrbo </content>
+    <link href="https://tiktok.com/@24framesofginger/video/7270558855686294826" rel="alternate"/>
+    <published>2023-08-23T16:41:59+00:00</published>
   </entry>
 </feed>

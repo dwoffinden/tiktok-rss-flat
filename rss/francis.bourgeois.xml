@@ -2,28 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@francis.bourgeois</id>
   <title>francis.bourgeois TikTok</title>
-  <updated>2023-07-30T19:53:43+00:00</updated>
+  <updated>2023-08-22T17:05:25+00:00</updated>
   <link href="http://tiktok.com" rel="alternate"/>
   <link href="https://daw.dev/tiktok-rss-flat/rss/francis.bourgeois.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://daw.dev/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>All the latest TikToks from francis.bourgeois</subtitle>
-  <entry>
-    <id>https://tiktok.com/@francis.bourgeois/video/7240871781202922779</id>
-    <title>Balcombe Station has to be one of the more peaceful stations in the Southern Region, unless there is a class 37 coming through! #trains </title>
-    <updated>2023-06-04T16:40:46+00:00</updated>
-    <content>Balcombe Station has to be one of the more peaceful stations in the Southern Region, unless there is a class 37 coming through! #trains </content>
-    <link href="https://tiktok.com/@francis.bourgeois/video/7240871781202922779" rel="alternate"/>
-    <published>2023-06-04T16:40:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@francis.bourgeois/video/7244961042630036763</id>
-    <title>I had a fantastic day out with DB Cargo UK on their railtour for Martin House which is a great cause! #trains </title>
-    <updated>2023-06-15T17:09:10+00:00</updated>
-    <content>I had a fantastic day out with DB Cargo UK on their railtour for Martin House which is a great cause! #trains </content>
-    <link href="https://tiktok.com/@francis.bourgeois/video/7244961042630036763" rel="alternate"/>
-    <published>2023-06-15T17:09:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@francis.bourgeois/video/7249784688326282522</id>
     <title>It is such a splendid day out at the Swanage Railway. Made especially easy with the Wareham Shuttle! #trains</title>
@@ -47,5 +31,21 @@
     <content>One of my favourite sounds on the railway: the scream from the Napier turbos on the class 56’s Ruston Paxman engine! #trains</content>
     <link href="https://tiktok.com/@francis.bourgeois/video/7261702283765878042" rel="alternate"/>
     <published>2023-07-30T19:53:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@francis.bourgeois/video/7266853456743255328</id>
+    <title>47830 is a special heritage locomotive in the Freightliner fleet and I’m so happy Gordon can get to drive it! #trains</title>
+    <updated>2023-08-13T17:02:53+00:00</updated>
+    <content>47830 is a special heritage locomotive in the Freightliner fleet and I’m so happy Gordon can get to drive it! #trains</content>
+    <link href="https://tiktok.com/@francis.bourgeois/video/7266853456743255328" rel="alternate"/>
+    <published>2023-08-13T17:02:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@francis.bourgeois/video/7270193878005763361</id>
+    <title>Have you ever wanted to drive a train? Well Train Sim World 4 is available for pre-order today! #trains</title>
+    <updated>2023-08-22T17:05:25+00:00</updated>
+    <content>Have you ever wanted to drive a train? Well Train Sim World 4 is available for pre-order today! #trains</content>
+    <link href="https://tiktok.com/@francis.bourgeois/video/7270193878005763361" rel="alternate"/>
+    <published>2023-08-22T17:05:25+00:00</published>
   </entry>
 </feed>

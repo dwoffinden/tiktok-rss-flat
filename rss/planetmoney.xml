@@ -2,20 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@planetmoney</id>
   <title>planetmoney TikTok</title>
-  <updated>2023-07-27T19:18:46+00:00</updated>
+  <updated>2023-08-14T17:54:30+00:00</updated>
   <link href="http://tiktok.com" rel="alternate"/>
   <link href="https://daw.dev/tiktok-rss-flat/rss/planetmoney.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://daw.dev/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>All the latest TikToks from planetmoney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@planetmoney/video/7224549391674117418</id>
-    <title>What’s all this talk about a 4-day work week?? #Labor #Economics #Work #Usher #learnontiktok </title>
-    <updated>2023-04-21T17:01:44+00:00</updated>
-    <content>What’s all this talk about a 4-day work week?? #Labor #Economics #Work #Usher #learnontiktok </content>
-    <link href="https://tiktok.com/@planetmoney/video/7224549391674117418" rel="alternate"/>
-    <published>2023-04-21T17:01:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@planetmoney/video/7241298190237142318</id>
     <title>But it goes to a good cause, right? #planetmoney #economics #learnontiktok </title>
@@ -47,5 +39,13 @@
     <content>What goes into a credit score?  #creditscore #creditcard #economics #learnontiktok </content>
     <link href="https://tiktok.com/@planetmoney/video/7260579983930805546" rel="alternate"/>
     <published>2023-07-27T19:18:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@planetmoney/video/7267237782089714986</id>
+    <title>Do you have what it takes to differentiate? #economics #differentiation #pmsummerschool #gameshow #truck #learnontiktok </title>
+    <updated>2023-08-14T17:54:30+00:00</updated>
+    <content>Do you have what it takes to differentiate? #economics #differentiation #pmsummerschool #gameshow #truck #learnontiktok </content>
+    <link href="https://tiktok.com/@planetmoney/video/7267237782089714986" rel="alternate"/>
+    <published>2023-08-14T17:54:30+00:00</published>
   </entry>
 </feed>
