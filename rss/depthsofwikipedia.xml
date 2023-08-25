@@ -2,28 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@depthsofwikipedia</id>
   <title>depthsofwikipedia TikTok</title>
-  <updated>2023-08-22T16:59:38+00:00</updated>
+  <updated>2023-08-28T19:34:57+00:00</updated>
   <link href="http://tiktok.com" rel="alternate"/>
   <link href="https://daw.dev/tiktok-rss-flat/rss/depthsofwikipedia.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://daw.dev/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>All the latest TikToks from depthsofwikipedia</subtitle>
-  <entry>
-    <id>https://tiktok.com/@depthsofwikipedia/video/7265534333430107434</id>
-    <title>No Title</title>
-    <updated>2023-08-10T03:44:11+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@depthsofwikipedia/video/7265534333430107434" rel="alternate"/>
-    <published>2023-08-10T03:44:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@depthsofwikipedia/video/7268318161492135210</id>
-    <title>she did not come all the way from nigeria to lose the wikipedia fashion show </title>
-    <updated>2023-08-17T15:46:50+00:00</updated>
-    <content>she did not come all the way from nigeria to lose the wikipedia fashion show </content>
-    <link href="https://tiktok.com/@depthsofwikipedia/video/7268318161492135210" rel="alternate"/>
-    <published>2023-08-17T15:46:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@depthsofwikipedia/video/7270182602789686571</id>
     <title>I MADE IT TO MECCA </title>
@@ -47,5 +31,21 @@
     <content>Don’t forget that Wikipedia was made by the sweetest and most wholesome nerds in the entire world </content>
     <link href="https://tiktok.com/@depthsofwikipedia/video/7270192335298809130" rel="alternate"/>
     <published>2023-08-22T16:59:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@depthsofwikipedia/video/7272403331866299694</id>
+    <title>the oatmeal raisin cookie article used to have a “controversy” section </title>
+    <updated>2023-08-28T15:59:37+00:00</updated>
+    <content>the oatmeal raisin cookie article used to have a “controversy” section </content>
+    <link href="https://tiktok.com/@depthsofwikipedia/video/7272403331866299694" rel="alternate"/>
+    <published>2023-08-28T15:59:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@depthsofwikipedia/video/7272458852577283374</id>
+    <title>lifeless minimalist web design has nothing on 20-year-old HTML sites by goofy guys</title>
+    <updated>2023-08-28T19:34:57+00:00</updated>
+    <content>lifeless minimalist web design has nothing on 20-year-old HTML sites by goofy guys</content>
+    <link href="https://tiktok.com/@depthsofwikipedia/video/7272458852577283374" rel="alternate"/>
+    <published>2023-08-28T19:34:57+00:00</published>
   </entry>
 </feed>

@@ -2,36 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jesszafarris</id>
   <title>jesszafarris TikTok</title>
-  <updated>2023-08-20T18:07:25+00:00</updated>
+  <updated>2023-09-03T15:20:57+00:00</updated>
   <link href="http://tiktok.com" rel="alternate"/>
   <link href="https://daw.dev/tiktok-rss-flat/rss/jesszafarris.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://daw.dev/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>All the latest TikToks from jesszafarris</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jesszafarris/video/7242432704048794926</id>
-    <title>The horrifying magic of word aversions! #etymology #words #etymologytok #history #language #linguistics #linguisticstok #science </title>
-    <updated>2023-06-08T21:37:55+00:00</updated>
-    <content>The horrifying magic of word aversions! #etymology #words #etymologytok #history #language #linguistics #linguisticstok #science </content>
-    <link href="https://tiktok.com/@jesszafarris/video/7242432704048794926" rel="alternate"/>
-    <published>2023-06-08T21:37:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jesszafarris/video/7250125286853840171</id>
-    <title>Book cover reveal and a game! Words from Hell is coming soon from Chambers. #wordsfromhell #books #booktok #authorsoftiktok #authortok #etymology #wordorigins #coverreveal #nonfiction #nonfictionbooks @Hachette Book Group </title>
-    <updated>2023-06-29T15:09:08+00:00</updated>
-    <content>Book cover reveal and a game! Words from Hell is coming soon from Chambers. #wordsfromhell #books #booktok #authorsoftiktok #authortok #etymology #wordorigins #coverreveal #nonfiction #nonfictionbooks @Hachette Book Group </content>
-    <link href="https://tiktok.com/@jesszafarris/video/7250125286853840171" rel="alternate"/>
-    <published>2023-06-29T15:09:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jesszafarris/video/7256441954471349547</id>
-    <title>The naughty secrets of pollution! #etymology #wordorigins #wordfromhell #booktok #authortok #history #environment #conservation #etymologytok </title>
-    <updated>2023-07-16T15:41:12+00:00</updated>
-    <content>The naughty secrets of pollution! #etymology #wordorigins #wordfromhell #booktok #authortok #history #environment #conservation #etymologytok </content>
-    <link href="https://tiktok.com/@jesszafarris/video/7256441954471349547" rel="alternate"/>
-    <published>2023-07-16T15:41:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jesszafarris/video/7261316925760769322</id>
     <title>The etymology of a word found in my upcoming book, Words from Hell. #etymology #etymologytok #history #wordorigins #health #women #insults #wordsfromhell</title>
@@ -47,5 +23,29 @@
     <content>The origins of highbrow and lowbrow, and how they are embedded with scientific racism and other biases. #etymology #etymologytok #history #language #linguistics #wordorigins #wordsfromhell #booktok #authortok #gender #sexism </content>
     <link href="https://tiktok.com/@jesszafarris/video/7269467651804597546" rel="alternate"/>
     <published>2023-08-20T18:07:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jesszafarris/video/7272457456507276586</id>
+    <title>The #etymology of #landlubber! #talklikeapirateday #etymologytok #history #wordorigins #pirates #language #linguistics #edutok #booktok #authorsoftiktok </title>
+    <updated>2023-08-28T19:29:24+00:00</updated>
+    <content>The #etymology of #landlubber! #talklikeapirateday #etymologytok #history #wordorigins #pirates #language #linguistics #edutok #booktok #authorsoftiktok </content>
+    <link href="https://tiktok.com/@jesszafarris/video/7272457456507276586" rel="alternate"/>
+    <published>2023-08-28T19:29:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jesszafarris/video/7272462566272585003</id>
+    <title>#stitch with @bellissimobrunette  “gay” and “lesbian” etmyology and grammar basics #etymology #history #etymologytok #grammar </title>
+    <updated>2023-08-28T19:49:17+00:00</updated>
+    <content>#stitch with @bellissimobrunette  “gay” and “lesbian” etmyology and grammar basics #etymology #history #etymologytok #grammar </content>
+    <link href="https://tiktok.com/@jesszafarris/video/7272462566272585003" rel="alternate"/>
+    <published>2023-08-28T19:49:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jesszafarris/video/7274619935144430894</id>
+    <title>Vanilla vagina. #etymology #etymologytok #history #grammar #wordorigins #linguistics #edutok #booktok #authortok</title>
+    <updated>2023-09-03T15:20:57+00:00</updated>
+    <content>Vanilla vagina. #etymology #etymologytok #history #grammar #wordorigins #linguistics #edutok #booktok #authortok</content>
+    <link href="https://tiktok.com/@jesszafarris/video/7274619935144430894" rel="alternate"/>
+    <published>2023-09-03T15:20:57+00:00</published>
   </entry>
 </feed>
