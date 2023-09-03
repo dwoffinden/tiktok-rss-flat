@@ -2,44 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@sylvaniandrama</id>
   <title>sylvaniandrama TikTok</title>
-  <updated>2023-07-20T14:22:37+00:00</updated>
+  <updated>2023-11-16T17:09:20+00:00</updated>
   <link href="http://tiktok.com" rel="alternate"/>
   <link href="https://daw.dev/tiktok-rss-flat/rss/sylvaniandrama.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://daw.dev/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>All the latest TikToks from sylvaniandrama</subtitle>
-  <entry>
-    <id>https://tiktok.com/@sylvaniandrama/video/7225272725806320923</id>
-    <title>No Title</title>
-    <updated>2023-04-23T15:48:25+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@sylvaniandrama/video/7225272725806320923" rel="alternate"/>
-    <published>2023-04-23T15:48:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@sylvaniandrama/video/7244540262771428634</id>
-    <title>No Title</title>
-    <updated>2023-06-14T13:56:24+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@sylvaniandrama/video/7244540262771428634" rel="alternate"/>
-    <published>2023-06-14T13:56:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@sylvaniandrama/video/7247937231376190747</id>
-    <title>#drama #wedding </title>
-    <updated>2023-06-23T17:38:23+00:00</updated>
-    <content>#drama #wedding </content>
-    <link href="https://tiktok.com/@sylvaniandrama/video/7247937231376190747" rel="alternate"/>
-    <published>2023-06-23T17:38:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@sylvaniandrama/video/7254177710153469210</id>
-    <title>No Title</title>
-    <updated>2023-07-10T13:14:42+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@sylvaniandrama/video/7254177710153469210" rel="alternate"/>
-    <published>2023-07-10T13:14:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@sylvaniandrama/video/7257906087867780379</id>
     <title>Stunning❤️ @ruggable use code BDAY23  #ruggablepartner #ad </title>
@@ -47,5 +15,37 @@
     <content>Stunning❤️ @ruggable use code BDAY23  #ruggablepartner #ad </content>
     <link href="https://tiktok.com/@sylvaniandrama/video/7257906087867780379" rel="alternate"/>
     <published>2023-07-20T14:22:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sylvaniandrama/video/7279007792512388384</id>
+    <title>No Title</title>
+    <updated>2023-09-15T11:07:58+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@sylvaniandrama/video/7279007792512388384" rel="alternate"/>
+    <published>2023-09-15T11:07:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sylvaniandrama/video/7293561356387765537</id>
+    <title>No Title</title>
+    <updated>2023-10-24T16:23:10+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@sylvaniandrama/video/7293561356387765537" rel="alternate"/>
+    <published>2023-10-24T16:23:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sylvaniandrama/video/7296170960456109344</id>
+    <title>Happy Halloween 💕#ad #supergooppartner @Supergoop </title>
+    <updated>2023-10-31T17:09:46+00:00</updated>
+    <content>Happy Halloween 💕#ad #supergooppartner @Supergoop </content>
+    <link href="https://tiktok.com/@sylvaniandrama/video/7296170960456109344" rel="alternate"/>
+    <published>2023-10-31T17:09:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sylvaniandrama/video/7302108208246639904</id>
+    <title>#drama ❤️ @Supergoop #ad </title>
+    <updated>2023-11-16T17:09:20+00:00</updated>
+    <content>#drama ❤️ @Supergoop #ad </content>
+    <link href="https://tiktok.com/@sylvaniandrama/video/7302108208246639904" rel="alternate"/>
+    <published>2023-11-16T17:09:20+00:00</published>
   </entry>
 </feed>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@oatmealcomics</id>
+  <title>oatmealcomics TikTok</title>
+  <updated>2023-11-11T21:32:46+00:00</updated>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://daw.dev/tiktok-rss-flat/rss/oatmealcomics.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://daw.dev/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>All the latest TikToks from oatmealcomics</subtitle>
+  <entry>
+    <id>https://tiktok.com/@oatmealcomics/video/7292486327231139103</id>
+    <title>You should cherish each moment with your sweet baby boi. #cartoon #parenting #funny #oatmealcomics </title>
+    <updated>2023-10-21T18:51:41+00:00</updated>
+    <content>You should cherish each moment with your sweet baby boi. #cartoon #parenting #funny #oatmealcomics </content>
+    <link href="https://tiktok.com/@oatmealcomics/video/7292486327231139103" rel="alternate"/>
+    <published>2023-10-21T18:51:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@oatmealcomics/video/7295451910260165919</id>
+    <title>Travis learns to bury things. Sorry Travis. #cartoon #catsoftiktok #funny #oatmealcomics </title>
+    <updated>2023-10-29T18:39:33+00:00</updated>
+    <content>Travis learns to bury things. Sorry Travis. #cartoon #catsoftiktok #funny #oatmealcomics </content>
+    <link href="https://tiktok.com/@oatmealcomics/video/7295451910260165919" rel="alternate"/>
+    <published>2023-10-29T18:39:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@oatmealcomics/video/7296540719458618655</id>
+    <title>How to be a dog in two simple steps. #cartoon #dogsoftiktok #funny #oatmealcomics </title>
+    <updated>2023-11-01T17:04:44+00:00</updated>
+    <content>How to be a dog in two simple steps. #cartoon #dogsoftiktok #funny #oatmealcomics </content>
+    <link href="https://tiktok.com/@oatmealcomics/video/7296540719458618655" rel="alternate"/>
+    <published>2023-11-01T17:04:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@oatmealcomics/video/7299139076333047070</id>
+    <title>The life cycle of a chicken. This applies to chickens as well as humans. #cartoon #funny #farmlife #OatmealComics </title>
+    <updated>2023-11-08T17:07:56+00:00</updated>
+    <content>The life cycle of a chicken. This applies to chickens as well as humans. #cartoon #funny #farmlife #OatmealComics </content>
+    <link href="https://tiktok.com/@oatmealcomics/video/7299139076333047070" rel="alternate"/>
+    <published>2023-11-08T17:07:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@oatmealcomics/video/7300320633211178270</id>
+    <title>The teaser trailer for my upcoming Exploding Kittens Netflix series just dropped! I’ve spent the past four years working on the show and I’m so excited to finally show you one minute of glorious footage. It’s being produced by Mike Judge (Beavis and Butth</title>
+    <updated>2023-11-11T21:32:46+00:00</updated>
+    <content>The teaser trailer for my upcoming Exploding Kittens Netflix series just dropped! I’ve spent the past four years working on the show and I’m so excited to finally show you one minute of glorious footage. It’s being produced by Mike Judge (Beavis and Butthead, Silicon Valley) and Greg Daniels( The office, King of the Hill, Parks and Rec). It stars Tom Ellis as Godcat. #trailer #catsoftiktok #explodingkittens #funny #netflixseries </content>
+    <link href="https://tiktok.com/@oatmealcomics/video/7300320633211178270" rel="alternate"/>
+    <published>2023-11-11T21:32:46+00:00</published>
+  </entry>
+</feed>
