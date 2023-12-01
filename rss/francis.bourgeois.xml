@@ -2,20 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@francis.bourgeois</id>
   <title>francis.bourgeois TikTok</title>
-  <updated>2023-11-06T18:47:47+00:00</updated>
+  <updated>2023-11-28T17:36:08+00:00</updated>
   <link href="http://tiktok.com" rel="alternate"/>
   <link href="https://daw.dev/tiktok-rss-flat/rss/francis.bourgeois.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://daw.dev/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>All the latest TikToks from francis.bourgeois</subtitle>
-  <entry>
-    <id>https://tiktok.com/@francis.bourgeois/video/7287997104067185953</id>
-    <title>Tears of elation and happiness. Such an overwhelming feeling to hear the scream of the turbos build up with the thud of the Paxman V16. Couldn’t have been better! #trains</title>
-    <updated>2023-10-09T16:31:03+00:00</updated>
-    <content>Tears of elation and happiness. Such an overwhelming feeling to hear the scream of the turbos build up with the thud of the Paxman V16. Couldn’t have been better! #trains</content>
-    <link href="https://tiktok.com/@francis.bourgeois/video/7287997104067185953" rel="alternate"/>
-    <published>2023-10-09T16:31:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@francis.bourgeois/video/7293563971540487457</id>
     <title>Berney Arms, near Great Yarmouth, is the shortest station in the UK. If visiting, make sure you pack something warm like my outfit from the @Loro Piana Cocooning Collection!</title>
@@ -47,5 +39,13 @@
     <content>This is my official model railway launch video! #trains</content>
     <link href="https://tiktok.com/@francis.bourgeois/video/7298422726438505761" rel="alternate"/>
     <published>2023-11-06T18:47:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@francis.bourgeois/video/7306568145219751200</id>
+    <title>The most luxurious train in the world, the Orient Express, is a dream of mine to see in person. Thank you Lego Group and Orient Express for this experience! #trains #ad </title>
+    <updated>2023-11-28T17:36:08+00:00</updated>
+    <content>The most luxurious train in the world, the Orient Express, is a dream of mine to see in person. Thank you Lego Group and Orient Express for this experience! #trains #ad </content>
+    <link href="https://tiktok.com/@francis.bourgeois/video/7306568145219751200" rel="alternate"/>
+    <published>2023-11-28T17:36:08+00:00</published>
   </entry>
 </feed>

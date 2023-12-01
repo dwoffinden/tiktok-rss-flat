@@ -2,20 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@planetmoney</id>
   <title>planetmoney TikTok</title>
-  <updated>2023-11-10T21:38:11+00:00</updated>
+  <updated>2023-12-02T00:49:16+00:00</updated>
   <link href="http://tiktok.com" rel="alternate"/>
   <link href="https://daw.dev/tiktok-rss-flat/rss/planetmoney.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://daw.dev/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>All the latest TikToks from planetmoney</subtitle>
-  <entry>
-    <id>https://tiktok.com/@planetmoney/video/7281008176651128106</id>
-    <title>Note: you have to opt-in for this program #debt #loans #studentloans #college #learnontiktok </title>
-    <updated>2023-09-20T20:30:28+00:00</updated>
-    <content>Note: you have to opt-in for this program #debt #loans #studentloans #college #learnontiktok </content>
-    <link href="https://tiktok.com/@planetmoney/video/7281008176651128106" rel="alternate"/>
-    <published>2023-09-20T20:30:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@planetmoney/video/7284358623155801390</id>
     <title>Straight Outta Planet Money Summer School! These are the 4 P’s of Marketing!#NPR #Economics #Marketing #Rap #Schoolhouserock #planetmoney </title>
@@ -47,5 +39,13 @@
     <content>The gold standard isn't the gold standard... Now the Money Printer is the gold standard #gold #economy #dollar #inflation #learnontiktok </content>
     <link href="https://tiktok.com/@planetmoney/video/7299950941913074987" rel="alternate"/>
     <published>2023-11-10T21:38:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@planetmoney/video/7307792976921529642</id>
+    <title>Now bank transfers can be instant... so why aren't they? #bank #econ #learnontiktok </title>
+    <updated>2023-12-02T00:49:16+00:00</updated>
+    <content>Now bank transfers can be instant... so why aren't they? #bank #econ #learnontiktok </content>
+    <link href="https://tiktok.com/@planetmoney/video/7307792976921529642" rel="alternate"/>
+    <published>2023-12-02T00:49:16+00:00</published>
   </entry>
 </feed>

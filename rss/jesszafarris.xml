@@ -2,28 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jesszafarris</id>
   <title>jesszafarris TikTok</title>
-  <updated>2023-11-16T22:35:35+00:00</updated>
+  <updated>2023-11-29T14:00:51+00:00</updated>
   <link href="http://tiktok.com" rel="alternate"/>
   <link href="https://daw.dev/tiktok-rss-flat/rss/jesszafarris.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://daw.dev/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>All the latest TikToks from jesszafarris</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jesszafarris/video/7295844783187070251</id>
-    <title>#stitch with @Nessie nonbinary equivalents to she sheds and mancaves! #word #sheshed #mancave #etymology </title>
-    <updated>2023-10-30T20:04:09+00:00</updated>
-    <content>#stitch with @Nessie nonbinary equivalents to she sheds and mancaves! #word #sheshed #mancave #etymology </content>
-    <link href="https://tiktok.com/@jesszafarris/video/7295844783187070251" rel="alternate"/>
-    <published>2023-10-30T20:04:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jesszafarris/video/7296585499261537578</id>
-    <title>Tips for tiktok creators who want to publish books! #booktok #authortok #etymology #publishing #literarytok #literaryagents #business #bookbusiness </title>
-    <updated>2023-11-01T19:58:30+00:00</updated>
-    <content>Tips for tiktok creators who want to publish books! #booktok #authortok #etymology #publishing #literarytok #literaryagents #business #bookbusiness </content>
-    <link href="https://tiktok.com/@jesszafarris/video/7296585499261537578" rel="alternate"/>
-    <published>2023-11-01T19:58:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jesszafarris/video/7297627910398037290</id>
     <title>Signed copies of Words from Hell at @Barnes &amp; Noble 5th Ave in NYC! #etymology #authortok #booktok #publishing #literarytok #word #WORDSFROMHELL #literarytok #history #bookstore #authorsoftiktok </title>
@@ -47,5 +31,21 @@
     <content>Replying to @Daniel Jenkins the beauty of astronaut and cosmonaut! #etymology #history #science #language #learnontiktok #linguistics #language </content>
     <link href="https://tiktok.com/@jesszafarris/video/7302192222278126891" rel="alternate"/>
     <published>2023-11-16T22:35:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jesszafarris/video/7306199257265016106</id>
+    <title>Felon is a dirty word—and might be very naughty indeed! #etymology #oed #history #language #etymologytok #wordnerd #author #authorsoftiktok #wordsfromhell #booktok #linguistics </title>
+    <updated>2023-11-27T17:45:02+00:00</updated>
+    <content>Felon is a dirty word—and might be very naughty indeed! #etymology #oed #history #language #etymologytok #wordnerd #author #authorsoftiktok #wordsfromhell #booktok #linguistics </content>
+    <link href="https://tiktok.com/@jesszafarris/video/7306199257265016106" rel="alternate"/>
+    <published>2023-11-27T17:45:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jesszafarris/video/7306883630989675822</id>
+    <title>Flash back to this grammar joke series i posted in 2021! #etymology #grammar #jokes #wordnerd #tipsygrammarian #language #humor #etymologytok #author #books #authorsoftiktok #booktok </title>
+    <updated>2023-11-29T14:00:51+00:00</updated>
+    <content>Flash back to this grammar joke series i posted in 2021! #etymology #grammar #jokes #wordnerd #tipsygrammarian #language #humor #etymologytok #author #books #authorsoftiktok #booktok </content>
+    <link href="https://tiktok.com/@jesszafarris/video/7306883630989675822" rel="alternate"/>
+    <published>2023-11-29T14:00:51+00:00</published>
   </entry>
 </feed>
