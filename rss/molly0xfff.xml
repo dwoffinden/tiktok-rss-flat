@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@molly0xfff</id>
+  <title>molly0xfff TikTok</title>
+  <updated>2023-12-01T17:46:45+00:00</updated>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://daw.dev/tiktok-rss-flat/rss/molly0xfff.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://daw.dev/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>All the latest TikToks from molly0xfff</subtitle>
+  <entry>
+    <id>https://tiktok.com/@molly0xfff/video/7307684061764455723</id>
+    <title>#KyberSwap was hacked for $50 million and then the hacker demanded complete control #Kyber #crypto #cryptocurrency #cryptonews #cryptok #cryptoscams  #web3isgoinggreat #w3igg #greenscreen </title>
+    <updated>2023-12-01T17:46:45+00:00</updated>
+    <content>#KyberSwap was hacked for $50 million and then the hacker demanded complete control #Kyber #crypto #cryptocurrency #cryptonews #cryptok #cryptoscams  #web3isgoinggreat #w3igg #greenscreen </content>
+    <link href="https://tiktok.com/@molly0xfff/video/7307684061764455723" rel="alternate"/>
+    <published>2023-12-01T17:46:45+00:00</published>
+  </entry>
+</feed>
