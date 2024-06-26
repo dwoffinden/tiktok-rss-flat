@@ -13,6 +13,5 @@ jsonFile.write(jsonString)
 jsonFile.close()
 
 for tiktok in tiktoks:
-   # print(tiktok)
-    print(tiktok['video']['cover'])
-    
+    # print(tiktok)
+    print(tiktok["video"]["cover"])
